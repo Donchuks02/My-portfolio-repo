@@ -39,7 +39,7 @@ homeButton.addEventListener('click', function() {
 
                 <div class="">
                     <div class="summary-container  mt-10">
-                        <p class="  text-center leading-7">I am Chukwudi David Okoro <br> A web developer.</p>
+                        <p class="  text-center leading-7 font-medium">I am Chukwudi David Okoro <br> A web developer.</p>
                     </div>
                 </div>
 
