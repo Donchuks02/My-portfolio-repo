@@ -73,7 +73,7 @@ aboutButton.addEventListener('click', function() {
     mainTag.innerHTML = `
     <section class="hero-section flex px-4 max-sm:flex justify-between content-center ">
             <article class="">
-                <p class="text-justify  w-60">
+                <p class="text-left  w-60 font-medium">
                     Hello! 👋 <br> I'm
                     <span> Chukwudi David Okoro</span> , a passionate developer with a blend of creativity and technical prowess. I am dedicated to transforming ideas into digital realities and eager to explore new technologies. I enjoys building robust
                     backend systems, designing intuitive front-end experiences, and tackling diverse challenges. I value collaborative development and open communication to a larger, impactful narrative. Let's connect and build something extraordinary
@@ -92,9 +92,9 @@ skillButton.addEventListener('click', function() {
      <section class=" flex  max-sm:flex justify-between content-center mt-20 ">
 
             <article>
-                <p class="font-normal">Proficient with :</p>
+                <p class="font-bold">Proficient with :</p>
 
-                <ul class="list-disc">
+                <ul class="list-disc font-medium">
                     <li class="flex  items-center gap-5 mt-4"><img src="./img/icons8-html.svg" alt="html 5 logo"> HTML 5</li>
                     <li class="flex  items-center gap-5 mt-3"><img src="./img/icons8-css.svg" alt="css 3 logo">CSS 3</li>
                     <li class="flex  items-center gap-5 mt-3"><img src="./img/icons8-tailwind-css.svg" alt="tailwind css logo">TAILWIND CSS</li>

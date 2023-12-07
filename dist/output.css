@@ -534,12 +534,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.mt-10 {
-  margin-top: 2.5rem;
+.ml-3 {
+  margin-left: 0.75rem;
 }
 
-.mt-16 {
-  margin-top: 4rem;
+.mt-10 {
+  margin-top: 2.5rem;
 }
 
 .mt-2 {
@@ -550,10 +550,6 @@ video {
   margin-top: 5rem;
 }
 
-.mt-24 {
-  margin-top: 6rem;
-}
-
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -562,32 +558,8 @@ video {
   margin-top: 1rem;
 }
 
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
 .mt-9 {
   margin-top: 2.25rem;
-}
-
-.mt-\[29px\] {
-  margin-top: 29px;
-}
-
-.ml-32 {
-  margin-left: 8rem;
-}
-
-.ml-20 {
-  margin-left: 5rem;
-}
-
-.ml-16 {
-  margin-left: 4rem;
-}
-
-.ml-3 {
-  margin-left: 0.75rem;
 }
 
 .flex {
@@ -615,33 +587,21 @@ video {
   width: 15rem;
 }
 
-.w-\[250px\] {
-  width: 250px;
+.w-\[100\%\] {
+  width: 100%;
 }
 
-.w-\[30\%\] {
-  width: 30%;
+.w-\[250px\] {
+  width: 250px;
 }
 
 .w-\[30px\] {
   width: 30px;
 }
 
-.w-\[50\%\] {
-  width: 50%;
-}
-
 .w-fit {
   width: -moz-fit-content;
   width: fit-content;
-}
-
-.w-\[800px\] {
-  width: 800px;
-}
-
-.w-\[100\%\] {
-  width: 100%;
 }
 
 .list-disc {
@@ -740,11 +700,6 @@ video {
   padding: 1rem;
 }
 
-.px-2 {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -755,8 +710,8 @@ video {
   padding-bottom: 0.25rem;
 }
 
-.pr-24 {
-  padding-right: 6rem;
+.text-left {
+  text-align: left;
 }
 
 .text-center {
@@ -784,8 +739,16 @@ video {
   font-weight: 100;
 }
 
+.font-bold {
+  font-weight: 700;
+}
+
 .font-normal {
   font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
 }
 
 .leading-7 {
