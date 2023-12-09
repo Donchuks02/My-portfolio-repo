@@ -62,7 +62,6 @@ homeButton.addEventListener('click', function() {
         </section>
 
     `
-        // homeButton.classList.add('border-b-2')
 
 
 })
@@ -123,8 +122,8 @@ projectsButton.addEventListener('click', function() {
                 <p class="font-normal text-light-sandcastle "> e-commerce website </p>
                 <div class="mt-4 flex flex-col leading-8">
 
-                    <a href="https://bwj.netlify.app/" class="rounded-lg bg-dark-gray p-1 w-fit text-sm">See project &rightarrow;</a>
-                    <a href="https://github.com/Donchuks02/BWJchallenge2/blob/master/README.md" class="rounded-lg bg-dark-gray p-1 w-fit mt-2 text-sm">Project Details &rightarrow;</a>
+                    <a href="https://bwj.netlify.app/" class="rounded-lg bg-light-sandcastle font-normal text-black p-1 w-fit text-sm">See project &rightarrow;</a>
+                    <a href="https://github.com/Donchuks02/BWJchallenge2/blob/master/README.md" class="rounded-lg bg-sandcastle text-black font-normal  p-1 w-fit mt-2 text-sm">Project Details &rightarrow;</a>
 
                 </div>
             </div>
@@ -135,8 +134,8 @@ projectsButton.addEventListener('click', function() {
                 lazy" srcset="" class="w-[100%] rounded-md">
                 <p class="font-normal text-light-sandcastle">interactive card website </p>
                 <div class="mt-4 flex flex-col leading-8">
-                    <a href="https://chuksinteractivecard.netlify.app/" class="rounded-lg bg-dark-gray p-1 w-fit text-sm ">See project &rightarrow;</a>
-                    <a href="https://github.com/Donchuks02/interactive-card-project/blob/master/README.md" class="rounded-lg bg-dark-gray p-1 w-fit mt-2 text-sm ">Project Details &rightarrow;</a>
+                    <a href="https://chuksinteractivecard.netlify.app/" class="rounded-lg text-black font-normal bg-light-sandcastle p-1 w-fit text-sm ">See project &rightarrow;</a>
+                    <a href="https://github.com/Donchuks02/interactive-card-project/blob/master/README.md" class="rounded-lg text-black font-normal bg-sandcastle p-1 w-fit mt-2 text-sm ">Project Details &rightarrow;</a>
                 </div>
             </div>
 

@@ -680,6 +680,16 @@ video {
   background-color: rgb(222 222 222 / var(--tw-bg-opacity));
 }
 
+.bg-sandcastle {
+  --tw-bg-opacity: 1;
+  background-color: rgb(224 188 129 / var(--tw-bg-opacity));
+}
+
+.bg-light-sandcastle {
+  --tw-bg-opacity: 1;
+  background-color: rgb(250 249 216 / var(--tw-bg-opacity));
+}
+
 .bg-\[url\(\'\.\.\/img\/chuks1\.webp\'\)\] {
   background-image: url('../img/chuks1.webp');
 }
@@ -718,10 +728,6 @@ video {
   text-align: center;
 }
 
-.text-justify {
-  text-align: justify;
-}
-
 .font-poppins {
   font-family: Poppins,  sans-serif;
 }
@@ -735,6 +741,11 @@ video {
   line-height: 1.25rem;
 }
 
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
 .font-\[100\] {
   font-weight: 100;
 }
@@ -743,12 +754,16 @@ video {
   font-weight: 700;
 }
 
+.font-medium {
+  font-weight: 500;
+}
+
 .font-normal {
   font-weight: 400;
 }
 
-.font-medium {
-  font-weight: 500;
+.font-light {
+  font-weight: 300;
 }
 
 .leading-7 {
@@ -759,14 +774,24 @@ video {
   line-height: 2rem;
 }
 
-.text-light-gray {
+.text-black {
   --tw-text-opacity: 1;
-  color: rgb(222 222 222 / var(--tw-text-opacity));
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .text-light-sandcastle {
   --tw-text-opacity: 1;
   color: rgb(250 249 216 / var(--tw-text-opacity));
+}
+
+.text-sandcastle {
+  --tw-text-opacity: 1;
+  color: rgb(224 188 129 / var(--tw-text-opacity));
+}
+
+.text-light-gray {
+  --tw-text-opacity: 1;
+  color: rgb(222 222 222 / var(--tw-text-opacity));
 }
 
 .shadow-md {
