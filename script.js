@@ -75,7 +75,7 @@ aboutButton.addEventListener('click', function() {
                 <p class="text-left  w-60 font-medium">
                     Hello! 👋 <br> I'm
                     <span> Chukwudi David Okoro</span> , a passionate developer with a blend of creativity and technical prowess. I am dedicated to transforming ideas into digital realities and eager to explore new technologies. I enjoys building robust
-                    backend systems, designing intuitive front-end experiences, and tackling diverse challenges. I value collaborative development and open communication to a larger, impactful narrative. Let's connect and build something extraordinary
+                    backend systems, designing intuitive front-end experiences, and tackling diverse challenges. I value collaborative development and open communication to a larger and impactful narrative. Let's connect and build something extraordinary
                     together! 🚀
                 </p>
             </article>
